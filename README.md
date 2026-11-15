@@ -30,3 +30,5 @@ Many finishing lines mix two or more components (e.g. base and hardener) by reci
 ## License
 
 MIT (code), CC BY 4.0 (docs).
+
+Drafted with AI assistance, based on hands-on experience
