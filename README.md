@@ -32,3 +32,5 @@ Many finishing lines mix two or more components (e.g. base and hardener) by reci
 MIT (code), CC BY 4.0 (docs).
 
 Drafted with AI assistance, based on hands-on experience
+
+More notes and contact: [fornax.ee](https://www.fornax.ee) · Have a similar problem? Write to info@fornax.ee — happy to help.
